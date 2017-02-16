@@ -15,6 +15,8 @@
     titulo varchar(100) not null,
     descricao text not null
     );
+    
+    INSERT INTO ususario (email, senha) VALUES ('admin@admin.com.br', '123456');
 
 #.htacess
 

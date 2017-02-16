@@ -1,5 +1,6 @@
 # curso-slim
 
+#Banco de dados Mysql
 
     create database slim;
 
@@ -14,3 +15,5 @@
     titulo varchar(100) not null,
     descricao text not null
     );
+
+#.htacess
